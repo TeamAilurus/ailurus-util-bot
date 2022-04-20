@@ -5,6 +5,7 @@ node_modules/
 *.iml
 coverage/
 docs/
+.env
 
 # Yarn files
 .yarn/install-state.gz
