@@ -21,7 +21,7 @@
 		"docker": "pm2-runtime start ./dist/index.js"
 	},
 	"dependencies": {
-		"ailurus": "0.0.3-next.44be2e8.0",
+		"ailurus": "0.0.3-next.380dafb.0",
 		"tslib": "^2.3.1"
 	},
 	"devDependencies": {

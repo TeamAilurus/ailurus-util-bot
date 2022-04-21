@@ -1611,7 +1611,7 @@ __metadata:
     "@types/node": ^17.0.8
     "@typescript-eslint/eslint-plugin": ^5.19.0
     "@typescript-eslint/parser": ^5.19.0
-    ailurus: 0.0.3-next.44be2e8.0
+    ailurus: 0.0.3-next.380dafb.0
     cz-conventional-changelog: ^3.3.0
     eslint: ^8.13.0
     eslint-config-prettier: ^8.5.0
@@ -1635,15 +1635,15 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"ailurus@npm:0.0.3-next.44be2e8.0":
-  version: 0.0.3-next.44be2e8.0
-  resolution: "ailurus@npm:0.0.3-next.44be2e8.0"
+"ailurus@npm:0.0.3-next.380dafb.0":
+  version: 0.0.3-next.380dafb.0
+  resolution: "ailurus@npm:0.0.3-next.380dafb.0"
   dependencies:
     discord-api-types: ^0.31.2
     dotenv: ^16.0.0
     undici: ^5.0.0
     ws: ^8.5.0
-  checksum: be99c025cee009238d2c6b012cf52f32092ae328e16b8cc43c0f65dfcc6ab909cc2dfc3ad5eb41ee349e49db322591ced3c1a9e50dd29687e5b4b1a38e25aea0
+  checksum: 3c661c2256128c400367780455bf4cc9b90722f0ba582baf0bc200638ef74922cdfc67b5048618506cd6a69201361119ff8d78f0d73f7e6c83dad6c2d4338eaa
   languageName: node
   linkType: hard
 
