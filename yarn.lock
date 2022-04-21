@@ -1611,11 +1611,12 @@ __metadata:
     "@types/node": ^17.0.8
     "@typescript-eslint/eslint-plugin": ^5.19.0
     "@typescript-eslint/parser": ^5.19.0
-    ailurus: 0.0.3-next.8c34adc.0
+    ailurus: 0.0.3-next.44be2e8.0
     cz-conventional-changelog: ^3.3.0
     eslint: ^8.13.0
     eslint-config-prettier: ^8.5.0
     eslint-plugin-prettier: ^4.0.0
+    git-cz: ^4.8.0
     husky: ^7.0.4
     jest: ^27.5.1
     jest-circus: ^27.5.1
@@ -1634,15 +1635,15 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"ailurus@npm:0.0.3-next.8c34adc.0":
-  version: 0.0.3-next.8c34adc.0
-  resolution: "ailurus@npm:0.0.3-next.8c34adc.0"
+"ailurus@npm:0.0.3-next.44be2e8.0":
+  version: 0.0.3-next.44be2e8.0
+  resolution: "ailurus@npm:0.0.3-next.44be2e8.0"
   dependencies:
     discord-api-types: ^0.31.2
     dotenv: ^16.0.0
     undici: ^5.0.0
     ws: ^8.5.0
-  checksum: e3d5c945e4b9b4751faafb16477f6ec4ac6c3dba75cb5886a40cc406c67ccc24394747fe06b44707025257651c25b910a6474b0d186aeab7b96b9a4fe13f6623
+  checksum: be99c025cee009238d2c6b012cf52f32092ae328e16b8cc43c0f65dfcc6ab909cc2dfc3ad5eb41ee349e49db322591ced3c1a9e50dd29687e5b4b1a38e25aea0
   languageName: node
   linkType: hard
 
@@ -4044,6 +4045,16 @@ __metadata:
     fs-extra: ^8.1.0
     ftp: ^0.3.10
   checksum: 5325b2906b08ca37529ca421cf52bc50376e75c6a945e0a8064e3f76b4bb67b8ab1e316a2fc7a307c8c606ab36d030720f39a57c97b027ff1134335e12102946
+  languageName: node
+  linkType: hard
+
+"git-cz@npm:^4.8.0":
+  version: 4.8.0
+  resolution: "git-cz@npm:4.8.0"
+  bin:
+    git-cz: bin/git-cz.js
+    gitcz: bin/git-cz.js
+  checksum: 2916ac622d77e1913ce75a2bd454e1ee41071c74323819f7dcfc6f2086edc6894b7968809cb70938214d136ab1591710fcac257d81ea419e60714a9ac0e0dafe
   languageName: node
   linkType: hard
 
